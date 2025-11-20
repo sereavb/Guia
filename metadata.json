@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Erasmus & AI Suite",
+  "description": "A comprehensive suite featuring an Erasmus Guide for Las Palmas, Real-time Voice AI, Image Editing, and Veo Video Generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
